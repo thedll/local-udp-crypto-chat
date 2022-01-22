@@ -15,7 +15,6 @@ def figlet():
     ''')
 
 def servidor(porta, chave):
-    print(chave)
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     sock.bind(('localhost', porta))
     figlet()
