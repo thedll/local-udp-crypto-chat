@@ -17,7 +17,7 @@ Como pode ser observado na análise, a confidencialidade da informação é perd
 ![com-criptografia](images/crypt.png)
 
 
-<h2>Uso<h2>
+<h2>Uso</h2>
 
 1 - Bibliotecas necessárias:
 
