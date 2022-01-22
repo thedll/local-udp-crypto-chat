@@ -10,3 +10,11 @@ Foram realizadas análises de tráfego entre as trocas de mensagems para prova d
 
 ![sem-criptografia](images/no-crypt.png)
 
+Como pode ser observado na análise, a confidencialidade da informação é perdida.
+
+2 - Diante disso, após a implementação da criptografia pode se observar que a confiabilidade da informação permanece ao trafegar na rede:
+
+![com-criptografia](images/crypt.png)
+
+
+
